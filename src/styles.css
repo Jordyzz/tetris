@@ -1,0 +1,9 @@
+.tetris-board {
+    display: grid;
+    grid-template-columns: repeat(10, 50px);
+    margin: auto;
+}
+
+.tetris { 
+    display: flex;
+}
